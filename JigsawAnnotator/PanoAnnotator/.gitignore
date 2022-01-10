@@ -1,0 +1,8 @@
+
+*.pyc
+./vscode
+
+estimator/depth/models/trained/*
+
+preprocess/matlab/
+
